@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "start": "cd ./nginx-1.16.0 && ./nginx.exe"
+    "start": "cd ./nginx && ./nginx.exe"
   },
   "keywords": [],
   "author": "",
