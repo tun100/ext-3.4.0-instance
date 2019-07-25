@@ -1,0 +1,13 @@
+2019/07/25 09:39:22 [error] 593180#569788: *1 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:19880", referrer: "http://127.0.0.1:19880/"
+2019/07/25 09:40:25 [error] 593180#569788: *1 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:40:35 [error] 593180#569788: *1 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:40:37 [error] 593180#569788: *1 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:40:48 [notice] 623964#612076: signal process started
+2019/07/25 09:40:48 [error] 623964#612076: OpenEvent("Global\ngx_stop_621588") failed (2: The system cannot find the file specified)
+2019/07/25 09:40:52 [error] 593180#569788: *1 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:40:59 [notice] 626468#623104: signal process started
+2019/07/25 09:40:59 [error] 626468#623104: OpenEvent("Global\ngx_reload_621588") failed (2: The system cannot find the file specified)
+2019/07/25 09:43:37 [error] 593180#569788: *2 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:43:38 [error] 593180#569788: *2 CreateFile() "F:\githubProject\ext-3.4.0\nginx-1.16.0/html/ext-all.js" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /ext-all.js HTTP/1.1", host: "127.0.0.1:19880"
+2019/07/25 09:44:24 [notice] 622396#541804: signal process started
+2019/07/25 09:44:24 [error] 622396#541804: OpenEvent("Global\ngx_reload_621588") failed (2: The system cannot find the file specified)
